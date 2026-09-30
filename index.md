@@ -9,6 +9,7 @@
 ### Meetings and Location
 - Classroom: Bioeng Dept. (Leninskie Gory 1-73), rooms 542, 543
 - Lectures: 10:55-12:30 on Thursdays
+- Telegram group [link](https://t.me/+Lzslzc9328k1Zjgy)
 
 
 ### Course Description
@@ -17,6 +18,7 @@
  
 ### Textbooks and learning resources
 
+- [Конференция 25 лет кафедре биоинженерии](https://www.bioeng.ru/25/)
 - [Генетические и эпигенетические технологии в биологии и медицине](https://www.bioeng.ru/gentech2026/) ссылка не лекции по запросу
 - [Школа по генетике и эпигенетике](https://www.bioeng.ru/epigenschool2026/)
 - [Школа "Молекулярные инструменты нового поколения в биологии: от CRISPR-Cas к генеративному ИИ дизайну»"](https://www.bioeng.ru/mol_tools_2026/)
