@@ -1,5 +1,5 @@
-<a href="https://github.com/intbio/spb_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Современные проблемы биологии (Осень 2025), 2 курс магистратуры
+<a href="https://github.com/intbio/spb_2026/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+# Современные проблемы биологии (Осень 2026), 2 курс магистратуры
 
 
 ### Contact information
@@ -8,8 +8,7 @@
 
 ### Meetings and Location
 - Classroom: Bioeng Dept. (Leninskie Gory 1-73), rooms 542, 543
-- Lectures: 12:45-14:20 on Wednesdays
-- Online stream [here](https://distant.bioeng.ru/b/d67-o3v-ced-4qp)
+- Lectures: 10:55-12:30 on Thursdays
 
 
 ### Course Description
@@ -18,8 +17,13 @@
  
 ### Textbooks and learning resources
 
+- [Генетические и эпигенетические технологии в биологии и медицине](https://www.bioeng.ru/gentech2026/) ссылка не лекции по запросу
+- [Школа по генетике и эпигенетике](https://www.bioeng.ru/epigenschool2026/)
+- [Школа "Молекулярные инструменты нового поколения в биологии: от CRISPR-Cas к генеративному ИИ дизайну»"](https://www.bioeng.ru/mol_tools_2026/)
+
 ### Course calendar
-- Dates: ;
+- Dates: October (1,8,15,22, 29) November (5 12 19 26 ) December (3 10 17);
+  До 5 ноября - согласовать с преподавателем компанию для подготовки реферата. 17 декабря - защита рефератов/презентаций или в день экзамена.
 
 ### Attendance policy
 - 100% attendance is required
@@ -28,7 +32,7 @@
 - необходимо подготовить реферат (от 1500 слов) и презентацию (на 10 мин + 5 мин обсуждение), целью которого является анализ какой-либо биотехнологической компании, ее продукта(ов)/технологии в контексте альтернатив/предложений конкурентов. Фокус должен быть в первую очередь на технологию - ее нужно проанализировать в контексте прикладного применения и коммерциализации.
 - должны быть освящены следующие темы: описание компании (размер, для стартапа - стадия, история), описание технологий/услуг, их преимущества/недостатки, описание компаний конкурентов и альтернативных технологий, анализ рынка (потребители, объем рынка, желательно посмотреть на бухгалтерскую отчетность для публичных компаний), ваше мнение о перспективах развития.
  - в ходе подготовки рекомендуется пользоваться - сайтами компаний (одних сайтов не достаточно - там однобокая информация!), статьями в научных журналах, аналитическими обзорами и статьями в профильных изданиях (Forbes, Nature Biotechnology, MIT Tech Review, Bloomberg). Необходимы ссылки на использованные источники. Если это IT решение - запросите демо и попробуйте.
- - Компанию для обзора нужно согласовать с преподавателем. Возможный список компаний: [ссылка 1](https://www.startus-insights.com/innovators-guide/synthetic-biology-trends/#:~:text=Gene%20and%20cell%20therapy%20are,potential%20cures%20for%20genetic%20disorders), иные:   GinkoBioworks (фокус на проекты последних лет), bit.bio, latchbio, molecular assemblies, formbio, inscripta, bitbiome, ganymede bio, amsilk, либо по согласованию. Пересечений не должно быть.
+ - Компанию для обзора нужно согласовать с преподавателем. Возможный список компаний: Российские компании: Биокад, Промомед, Генериум, Р-Фарм, Герофарм и др., [ссылка 1](https://www.startus-insights.com/innovators-guide/synthetic-biology-trends/#:~:text=Gene%20and%20cell%20therapy%20are,potential%20cures%20for%20genetic%20disorders), иные:   GinkoBioworks (фокус на проекты последних лет), bit.bio, latchbio, molecular assemblies, formbio, inscripta, bitbiome, ganymede bio, amsilk, либо по согласованию. Пересечений не должно быть.
  
 
 
